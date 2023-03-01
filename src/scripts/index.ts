@@ -1,0 +1,1 @@
+export { captureFlag } from './captureFlag'
